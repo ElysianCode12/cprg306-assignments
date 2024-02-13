@@ -35,7 +35,7 @@ export default function NewItem() {
 
     return (
         <main>
-            <div className="min-h-screen bg-blue-gray-100 flex items-center justify-center">
+            <div className="min-h-screen bg-blue-100 flex items-center justify-center">
             <form onSubmit={handleSubmit}>
                 <div className="w-full max-w-md bg-white p-8 rounded-lg shadow-md">
                     <div className="col-span-2">
